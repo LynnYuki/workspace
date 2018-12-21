@@ -3,10 +3,7 @@ package poker;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * @Author:LiuYun
- * @Date:2018/12/20 18:30
- */
+
 public class Player {
     private String name;
     private String id;

@@ -4,13 +4,11 @@
     <option name="GROUP_BY_SEVERITY" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="90ba6a74-8ba0-4d4f-b664-e28a07ae3704" name="Default Changelist" comment="test">
-      <change afterPath="$PROJECT_DIR$/pokergame/pokergame.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pokergame/src/poker/Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pokergame/src/poker/Poker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pokergame/src/poker/PokerGame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="90ba6a74-8ba0-4d4f-b664-e28a07ae3704" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pokergame/src/poker/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/pokergame/src/poker/Player.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pokergame/src/poker/Poker.java" beforeDir="false" afterPath="$PROJECT_DIR$/pokergame/src/poker/Poker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pokergame/src/poker/PokerGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/pokergame/src/poker/PokerGame.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/test/target/" />
@@ -44,20 +42,12 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pokergame/src/poker/Poker.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="47" column="25" selection-start-line="47" selection-start-column="25" selection-end-line="47" selection-end-column="25" />
+            <state relative-caret-position="-240">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#509#510#0" expanded="true" />
-                <element signature="e#534#535#0" expanded="true" />
-                <element signature="e#460#461#0" expanded="true" />
-                <element signature="e#486#487#0" expanded="true" />
-                <element signature="e#524#525#0" expanded="true" />
-                <element signature="e#554#555#0" expanded="true" />
-                <element signature="e#586#587#0" expanded="true" />
-                <element signature="e#614#615#0" expanded="true" />
-                <element signature="e#656#657#0" expanded="true" />
-                <element signature="e#690#691#0" expanded="true" />
+                <element signature="e#541#542#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -66,8 +56,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pokergame/src/poker/Player.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="477">
-              <caret line="35" column="30" selection-start-line="35" selection-start-column="30" selection-end-line="35" selection-end-column="30" />
+            <state relative-caret-position="120">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#276#277#0" expanded="true" />
@@ -81,7 +71,7 @@
                 <element signature="e#536#537#0" expanded="true" />
                 <element signature="e#570#571#0" expanded="true" />
                 <element signature="e#617#618#0" expanded="true" />
-                <element signature="e#648#649#0" expanded="true" />
+                <element signature="e#654#655#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -90,12 +80,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pokergame/src/poker/PokerGame.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-120">
-              <caret line="17" column="25" lean-forward="true" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
-              <folding>
-                <element signature="method#createPlayer#0;class#PokerGame#0" />
-                <element signature="method#shuffleCards#0;class#PokerGame#0" />
-              </folding>
+            <state relative-caret-position="1704">
+              <caret line="71" column="118" selection-start-line="71" selection-start-column="118" selection-end-line="71" selection-end-column="118" />
             </state>
           </provider>
         </entry>
@@ -147,10 +133,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="39" />
-    <option name="y" value="70" />
-    <option name="width" value="1920" />
-    <option name="height" value="876" />
+    <option name="x" value="1" />
+    <option name="y" value="1" />
+    <option name="width" value="1534" />
+    <option name="height" value="822" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -161,7 +147,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -202,13 +187,14 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DatabaseDriversLRU" value="mysql&#10;oracle" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545307416287" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545366866906" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
@@ -295,17 +281,27 @@
       <workItem from="1545122276235" duration="84000" />
       <workItem from="1545122437891" duration="2410000" />
       <workItem from="1545131652799" duration="1614000" />
-      <workItem from="1545301673345" duration="5625000" />
+      <workItem from="1545301673345" duration="5680000" />
+      <workItem from="1545360588251" duration="4413000" />
     </task>
+    <task id="LOCAL-00001" summary="PokerGame">
+      <created>1545307514266</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1545307514266</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25307000" />
+    <option name="totallyTimeSpent" value="29775000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="39" y="70" width="1920" height="876" extended-state="0" />
+    <frame x="1" y="1" width="1534" height="822" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16344085" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2082768" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -315,7 +311,7 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.14535666" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.49782294" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -384,7 +380,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test" />
-    <option name="LAST_COMMIT_MESSAGE" value="test" />
+    <MESSAGE value="PokerGame" />
+    <option name="LAST_COMMIT_MESSAGE" value="PokerGame" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
@@ -464,30 +461,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pokergame/src/poker/Poker.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="47" column="25" selection-start-line="47" selection-start-column="25" selection-end-line="47" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#509#510#0" expanded="true" />
-            <element signature="e#534#535#0" expanded="true" />
-            <element signature="e#460#461#0" expanded="true" />
-            <element signature="e#486#487#0" expanded="true" />
-            <element signature="e#524#525#0" expanded="true" />
-            <element signature="e#554#555#0" expanded="true" />
-            <element signature="e#586#587#0" expanded="true" />
-            <element signature="e#614#615#0" expanded="true" />
-            <element signature="e#656#657#0" expanded="true" />
-            <element signature="e#690#691#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pokergame/src/poker/Player.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="477">
-          <caret line="35" column="30" selection-start-line="35" selection-start-column="30" selection-end-line="35" selection-end-column="30" />
+        <state relative-caret-position="120">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#276#277#0" expanded="true" />
@@ -501,19 +478,27 @@
             <element signature="e#536#537#0" expanded="true" />
             <element signature="e#570#571#0" expanded="true" />
             <element signature="e#617#618#0" expanded="true" />
-            <element signature="e#648#649#0" expanded="true" />
+            <element signature="e#654#655#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pokergame/src/poker/Poker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-240">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#509#510#0" expanded="true" />
+            <element signature="e#541#542#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pokergame/src/poker/PokerGame.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-120">
-          <caret line="17" column="25" lean-forward="true" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
-          <folding>
-            <element signature="method#createPlayer#0;class#PokerGame#0" />
-            <element signature="method#shuffleCards#0;class#PokerGame#0" />
-          </folding>
+        <state relative-caret-position="1704">
+          <caret line="71" column="118" selection-start-line="71" selection-start-column="118" selection-end-line="71" selection-end-column="118" />
         </state>
       </provider>
     </entry>

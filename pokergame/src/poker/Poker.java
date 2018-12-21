@@ -1,13 +1,10 @@
 package poker;
 
-import java.util.ArrayList;
+
 import java.util.Arrays;
 import java.util.List;
 
-/**
- * @Author:LiuYun
- * @Date:2018/12/20 18:30
- */
+
 public class Poker implements Comparable<Poker> {
     String key;
     String value;
